@@ -8,3 +8,6 @@
 3.অন্য স্ক্রিনে যেতে চাই (Navigation)	
 4.UI rebuild করতে চাই না	
 5.BlocBuilder ব্যবহার করা দরকার নেই	
+
+# BLocBuilder
+শুধুমাত্র UI build করার জন্য ব্যবহৃত হয়, 
