@@ -14,6 +14,9 @@
 # BlocProvider
 
 
+# BlocListener, BlocBuilder, এবং BlocProvider — 
+# এদের সবাইকে একত্রে বলা হয় BLoC Widgets বা BLoC Utilities
+
 # flutter bloc
 1. add dependency
    flutter_bloc: ^9.1.1
