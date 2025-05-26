@@ -3,3 +3,8 @@
 26 may start
 
 # BLocListener
+1.Snackbar দেখাতে চাই	
+2.Dialog বা Alert দেখাতে চাই	
+3.অন্য স্ক্রিনে যেতে চাই (Navigation)	
+4.UI rebuild করতে চাই না	
+5.BlocBuilder ব্যবহার করা দরকার নেই	
