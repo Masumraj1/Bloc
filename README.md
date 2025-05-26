@@ -27,3 +27,8 @@
 তাদের memory reference চেক করে—not their content. equatable 
 এটা override করে যেন two objects are considered equal যদি 
 তাদের properties same হয়।
+3. alamin vai
+ #  Bloc structure, events, states, and streams.
+# Bloc Api Called
+# একাধিক Bloc ব্যবস্থাপনা, Nested Bloc, Bloc-to-Bloc কমিউনিকেশন।
+# Bloc দিয়ে টেস্টিং
