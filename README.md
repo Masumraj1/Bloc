@@ -11,3 +11,10 @@
 
 # BLocBuilder
 শুধুমাত্র UI build করার জন্য ব্যবহৃত হয়, 
+# BlocProvider
+
+
+# flutter bloc
+1. add dependency
+   flutter_bloc: ^9.1.1
+   equatable: ^2.0.7
