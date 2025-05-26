@@ -20,4 +20,10 @@
 # flutter bloc
 1. add dependency
    flutter_bloc: ^9.1.1
-   equatable: ^2.0.7
+
+ 2.  equatable: ^2.0.7
+   equatable হল Dart-এর একটি প্যাকেজ যা object comparison সহজ 
+ করে তোলে। Dart-এ default ভাবে দুইটি object == দিয়ে compare করলে
+তাদের memory reference চেক করে—not their content. equatable 
+এটা override করে যেন two objects are considered equal যদি 
+তাদের properties same হয়।
